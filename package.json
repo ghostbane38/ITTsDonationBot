@@ -1,0 +1,18 @@
+{
+  "name": "ITTsDonationBot",
+  "version": "2.0.9",
+  "addonVersion": "209",
+  "description": "Keeps on top of Donations, beep! Part of the ITTs Bot family, handy helpers for Trade Guilds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Ghostbane",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-replace": "^1.1.4",
+    "gulp-zip": "^4.2.0",
+    "yargs": "^17.7.2"
+  }
+}
